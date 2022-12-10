@@ -4,7 +4,11 @@ Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the c
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
 
+You can also [checkout my work on this demo client app here](https://odyssey-lift-off-part5-client-production-cd57.up.railway.app/).
+
 You can [find the client counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-client).
+
+You can also [checkout my work on the client app here](https://github.com/AjayVenkatesh2026/odyssey-lift-off-part5-client).
 
 ## How to use this repo
 
